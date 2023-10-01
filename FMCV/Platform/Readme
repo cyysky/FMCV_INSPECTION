@@ -1,0 +1,4 @@
+This folder is dedicated for movable platform (eg, xy table or robot arm)
+
+There is an interface that expose the general method for the platform class
+This will isolate the platform layer from actual application layer to ease the integration for new platform
